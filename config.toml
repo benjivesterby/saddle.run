@@ -1,0 +1,102 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Saddle Run | Fuquay Varina, NC"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+
+[server]
+  [headers]
+  for = "/*"
+  [headers.values]
+  Referrer-Policy = "strict-origin-when-cross-origin"
+  X-Content-Type-Options = "nosniff"
+  X-Frame-Options = "deny"
+  X-XSS-Protection = "1; mode=block"
+  Cache-Control = "max-age=31536000"
+
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/Logo-color.png"
+    mobile_height = "50px"
+    # mobile_width = "36px"
+    desktop = "images/Logo-color.png"
+    desktop_height = "75px"
+    # desktop_width = "217px"
+    alt = "Saddle Run Logo"
+
+  [params.homepage_meta_tags]
+    meta_description = "Saddle Run is a equine community in Fuquay North Carolina."
+    meta_og_title = "Saddle Run"
+    meta_og_type = "website"
+    # meta_og_url = "https://hugo-hero.netlify.app"
+    # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Saddle Run is a equine community in Fuquay North Carolina."
+    meta_twitter_card = "summary"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[[menu.main]]
+	name = "Home"
+	url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "amenities"
+    name = "Amenities"
+    url = "/amenities/"
+    weight = 3
+  
+[[menu.amenities]]
+    name = "Pool"
+    parent = 'amenities'
+    url = "/pool/"
+    weight = 0
+
+[[menu.amenities]]
+    name = "Playground"
+    parent = 'amenities'
+    url = "/playground/"
+    weight = 1
+
+[[menu.amenities]]
+    name = "Stables"
+    parent = 'amenities'
+    url = "/stables/"
+    weight = 2
+
+[[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 6
+
+[[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 7
+
+[[menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 8
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 9
+
+[permalinks]
+  posts = '/::slug'
+  pages = "/:filename/"

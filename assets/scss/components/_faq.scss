@@ -1,0 +1,20 @@
+
+
+.faq {
+    padding: 0;
+    margin: 2rem 0;
+    list-style: none;
+    @include media-breakpoint-up(md) {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+}
+
+.question {
+    color: rgb(0, 0, 0);
+}
+
+.answer {
+    color: rgb(0, 63, 0);
+}

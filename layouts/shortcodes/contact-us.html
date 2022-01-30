@@ -1,0 +1,31 @@
+<ul class="social" style="padding: 30px;">
+    {{ range .Site.Data.social }}
+    <li style="text-align: center;">
+        <a href="{{ .link }}" target="blank">
+            <strong style="padding: 10px;">
+                {{ .name }}
+            </strong>
+            <img width="50" height="50" src="{{ .image | relURL }}" title="{{ .name }}" alt="{{ .name }}" /></a>
+    </li>
+    {{ end }}
+</ul>
+
+<!-- <form action="https://getform.io/f/5b4a54f4-634e-46a1-85c9-68fb001506c4" method="POST">
+    <div class="mb-3">
+        <label for="contactName" class="form-label">Name:</label>
+        <input name="name" class="form-control" id="contactName" required>
+    </div>
+    <div class="mb-3">
+        <label for="contactEmail" class="form-label">Email:</label>
+        <input name="email" class="form-control" id="email" required>
+    </div>
+    <div class="mb-3">
+        <label for="contactSubject" class="form-label">Subject:</label>
+        <input class="form-control" name="subject" id="contactSubject" required>
+    </div>
+    <div class="mb-3">
+        <label for="contactMessage" class="form-label">Message:</label>
+        <textarea class="form-control" name="message" id="contactMessage"></textarea>
+    </div>
+    <button type="submit">Send</button>
+</form> -->

@@ -1,0 +1,11 @@
+.page {
+  display: flex;
+  min-height: 100vh;
+  max-width: 1000px;
+  background-color: lightgray;
+  margin: auto;
+  flex-direction: column;
+  .wrapper {
+    flex: 1;
+  }
+}

@@ -1,0 +1,34 @@
+email: 'board@saddle.run'
+# phone: 'XXXX XXX XXX'
+businessName: 'Saddle Run HOA'
+address: |
+  Saddle Run Stables
+  5124 Northgreen Dr
+  Fuquay Varina NC 27526
+pobox: |
+  Saddle Run Community
+  PO Box 262
+  Fuquay Varina, NC 27526
+
+# hours:
+#   - day: Monday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Tuesday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Wednesday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Thursday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Friday
+#     open: 8:30am
+#     close: 5:00pm
+#   - day: Saturday
+#     open: Closed
+#     close:
+#   - day: Sunday
+#     open: Closed
+#     close:
