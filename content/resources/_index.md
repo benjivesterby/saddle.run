@@ -6,6 +6,26 @@ heroSubHeading: 'HOA Documents, Membership, and More'
 heroBackground: ''
 ---
 
+## Treasurer Report
+
+Treasurer's Reports will be provided to residents upon request.  Please send
+requests to [treasury@saddle.run](mailto:treasury@saddle.run) or the current
+Saddle Run Treasurer.  
+
+The Saddle Run HOA Annual Assessment is due by April 15, 2020.
+
+If you have not sent your payment, please remit payment of $365.00 via check to:
+
+**Saddle Run HOA**
+**PO Box 262**
+**Fuquay Varina, NC  27526**
+
+This bill is subject to a 1% per month late payment charge after May 15.
+
+The annual assessment allows for maintenance & repair of our community
+amenities, and funds the general operating costs of Saddle Run. Please email
+current treasurer if you need to discuss the possibility of a payment plan.
+
 ## Public Documents
 
 [These are the public HOA documents for the community.](https://drive.google.com/drive/folders/1L8oU683WB4U-9s2E0AB-hOZpOKnIwHVY?usp=sharing)
