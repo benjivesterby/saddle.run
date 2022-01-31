@@ -3,18 +3,19 @@
 {{ define "header_classes" }}{{ end }}
 
 {{ define "main" }}
-<div class="intro intro-small">
+<!-- <div class="intro intro-small">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>{{ .Title }}</h1>
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <div class="container">
-  <div class="row">
-    <div class="col-12 col-md-8">
+  <div class="row pb-12">
+    <div class="col-12 col-md-12">
+      <h1>{{ .Title }}</h1>
+      <hr>
       {{ .Content }}
       <ul>
         <!-- <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li> -->
