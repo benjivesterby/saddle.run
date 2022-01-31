@@ -4,7 +4,7 @@ date: 2018-12-06T09:29:16+10:00
 draft: false
 ---
 
-![Stables](/images/stables/barn.JPG)
+{{< image >}}/images/stables/barn.JPG{{</ image >}}
 
 ## An Equestrian Community
 
@@ -23,4 +23,4 @@ If you are interested in touring the stable, putting your name on the list for
 an available stall, or you have any questions please send an email to
 [stables@saddle.run](mailto:stables@saddle.run)
 
-![Stables Front](/images/stables/barn2.JPG)
+{{< image >}}/images/stables/barn2.JPG{{</ image >}}

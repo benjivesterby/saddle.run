@@ -59,23 +59,21 @@ theme = "hugo-hero-theme"
     url = "/amenities/"
     weight = 3
   
-[[menu.amenities]]
+[[menu.main]]
     name = "Pool"
-    parent = 'amenities'
     url = "/pool/"
-    weight = 0
+    weight = 4
 
-[[menu.amenities]]
-    name = "Playground"
-    parent = 'amenities'
-    url = "/playground/"
-    weight = 1
+# [[menu.amenities]]
+#     name = "Playground"
+#     parent = 'amenities'
+#     url = "/playground/"
+#     weight = 1
 
-[[menu.amenities]]
+[[menu.main]]
     name = "Stables"
-    parent = 'amenities'
     url = "/stables/"
-    weight = 2
+    weight = 5
 
 [[menu.main]]
     name = "Events"
