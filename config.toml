@@ -21,7 +21,7 @@ theme = "hugo-hero-theme"
 
     
 [params]
-  google_analytics_id=""
+  google_analytics_id="G-2LM51L7BM9"
 
   [params.logo]
     mobile = "images/Logo-color.png"
