@@ -6,7 +6,7 @@ heroSubHeading: 'Saddle Run Pool'
 heroBackground: ''
 ---
 
-The Saddle Run Pool is ***CLOSED*** for the 2021 season.
+The Saddle Run Pool opens for the 2023 season May 13th.
 
 >Pool Waiver must be signed before key is activated.
 
@@ -25,6 +25,13 @@ costs.
 
 > As a reminder your pool fob will only work if you've paid your HOA dues and
 > signed the Pool waiver.
+
+## Reservations
+
+Homewoners are able to reserve the pool for private gatherings Thursday evenings
+beginning at 5:30pm.
+
+{{< cal >}}
 
 ## 2021 Pool Renovation Project
 

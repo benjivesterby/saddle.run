@@ -14,24 +14,7 @@ often for the location and specific date of the meeting.  Homeowner's are
 encouraged to attend each meeting. "Homeowner Time" is available to allow any
 resident to bring up any issues, provide feedback on a topic or ask questions.
 
-***Now that the weather has warmed up, HOA meetings will be held at the pool
-house.***
-
-<!-- ## Virtual Meetings
-
-During COVID-19, Saddle Run will be hosting virtual meetings. Below is the
-information for joining the virtual meeting.
-
-### Saddle Run HOA Board Meeting
-
-#### Join by QR Code
-
-![Virtual Meeting QR Code](/images/events/qrcode.png)
-
-#### Video Call Information
-
-[https://meet.google.com/bce-ncpb-sqs](https://meet.google.com/bce-ncpb-sqs) -->
-Join by Phone: [+1 323-905-0629](tel:013239050629;521899961#) PIN: 521 899 961#
+HOA Meetings will be held at the Pool for the 2023 summer season.
 
 ## Meeting Minutes
 
