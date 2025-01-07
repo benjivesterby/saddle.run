@@ -11,9 +11,9 @@ heroBackground: ''
 Treasurer's Reports will be provided to residents upon request.  Please send
 requests to [treasury@saddle.run](mailto:treasury@saddle.run).
 
-The Saddle Run HOA Annual Assessment is due by April 15, 2022.
+The Saddle Run HOA Annual Assessment is due by April 15, 2025.
 
-If you have not sent your payment, please remit payment of $375.00 via check to:
+If you have not sent your payment, please remit payment of $420.00 via check to:
 
 **Saddle Run HOA**
 **PO Box 262**
