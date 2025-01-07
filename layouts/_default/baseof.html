@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Site.Language.Lang }}">
 
 <head>
   <meta charset="utf-8">
@@ -9,9 +9,7 @@
   {{ block "meta_tags" . }}{{end}}
   <link rel="icon" href="{{ .Site.BaseURL }}favicon.ico">
 
-  <!-- {{ partial "head.html" . }} -->
-
-  {{ if .Site.IsServer }}
+  {{ if hugo.IsServer }}
   {{ $style := resources.Get "scss/style.scss" | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
   <link rel="stylesheet" href="{{ ($style).RelPermalink }}">
   {{ else }}
@@ -39,7 +37,7 @@
   {{ block "footer_js" . }}
   {{ end }}
 
-  {{ if .Site.IsServer }}
+  {{ if hugo.IsServer }}
   <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
   {{ else }}
   <script type="text/javascript" src="{{ ($scripts | minify | fingerprint).RelPermalink }}"></script>
@@ -48,5 +46,4 @@
   {{ partial "google-analytics.html" . }}
 
 </body>
-
 </html>
