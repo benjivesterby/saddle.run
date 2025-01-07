@@ -6,8 +6,6 @@ heroSubHeading: 'Saddle Run Pool'
 heroBackground: ''
 ---
 
-The Saddle Run Pool opens for the 2023 season May 13th.
-
 >Pool Waiver must be signed before key is activated.
 
 [Click here to download the

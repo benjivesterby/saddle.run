@@ -14,7 +14,7 @@ often for the location and specific date of the meeting.  Homeowner's are
 encouraged to attend each meeting. "Homeowner Time" is available to allow any
 resident to bring up any issues, provide feedback on a topic or ask questions.
 
-HOA Meetings will be held at the Pool for the 2023 summer season.
+HOA Meetings will be held at the Pool for the 2025 summer season.
 
 ## Meeting Minutes
 
