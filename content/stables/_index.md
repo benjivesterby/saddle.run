@@ -21,6 +21,6 @@ might be in their way!
 
 If you are interested in touring the stable, putting your name on the list for
 an available stall, or you have any questions please send an email to
-[stables@saddle.run](mailto:stables@saddle.run)
+[board@saddle.run](mailto:board@saddle.run)
 
 {{< image >}}/images/stables/barn2.JPG{{</ image >}}
