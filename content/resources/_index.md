@@ -9,7 +9,7 @@ heroBackground: ''
 ## Treasurer Report
 
 Treasurer's Reports will be provided to residents upon request.  Please send
-requests to [treasury@saddle.run](mailto:treasury@saddle.run).
+requests to [board@saddle.run](mailto:board@saddle.run).
 
 The Saddle Run HOA Annual Assessment is due by April 15, 2025.
 
@@ -23,7 +23,7 @@ This bill is subject to a 1% per month late payment charge after May 15.
 
 The annual assessment allows for maintenance & repair of our community
 amenities, and funds the general operating costs of Saddle Run. Please email
-[treasury@saddle.run](mailto:treasury@saddle.run) if you need to discuss the
+[board@saddle.run](mailto:board@saddle.run) if you need to discuss the
 possibility of a payment plan.
 
 ## Public Documents
