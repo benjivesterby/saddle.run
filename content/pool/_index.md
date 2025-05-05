@@ -6,23 +6,26 @@ heroSubHeading: 'Saddle Run Pool'
 heroBackground: ''
 ---
 
->Pool Waiver must be signed before key is activated.
+## Access
+Access to the pool is granted through electronic
+key FOBs. If you would like to request a new or replacement key FOB for $20.00,
+please contact [board@saddle.run](mailto:board@saddle.run) for details.
+
+As a reminder your pool fob will only work if you've paid your HOA dues and signed the Pool waiver.
 
 [Click here to download the
 waiver.](https://docs.google.com/document/d/1Fy921RECHPZib1h2O8XsAsqz-y1xdTQu/edit?usp=sharing&ouid=115726158870129633724&rtpof=true&sd=true)
 
-## Hours
+## Pool Hours
+ 
+**6:30 am - 9:00 am** : Adult Lap Swim
 
-**Monday - Sunday:**   9:00 am to Dusk
+**9:00 am - dusk** : Everyone
 
-**Adult Lap Swim:**   6:30am - 9:00am
-
-**Private Gatherings:**   Private Gatherings may be booked on Thursdays beginning at 5:30pm for a fee.
+## Private Bookings
+Thursdays: 5:30 pm to dusk. - Private Gatherings may be booked on Thursdays beginning at 5:30pm for a fee.
 Please email [Saddle Run Board](mailto:board@saddle.run) for more information and
 costs.
-
-> As a reminder your pool fob will only work if you've paid your HOA dues and
-> signed the Pool waiver.
 
 ## Reservations
 
