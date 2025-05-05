@@ -104,9 +104,9 @@ contact the stable manager
 The purpose of the Pool and Playground Committee is to oversee the [Saddle Run
 Pool](/pool) and [Playground](/playground) facilities. For any questions or to
 volunteer on the committee, please contact
-[pool@saddle.run](mailto:pool@saddle.run).
+[board@saddle.run](mailto:board@saddle.run).
 
 UPDATE Opening Dates for the Pool Season should be around the first week of May
 weather and permit pending. Access to the pool is granted through electronic
 key FOBs. If you would like to request a new or additional key FOB for $15.00,
-please contact [pool@saddle.run](mailto:pool@saddle.run) for details.
+please contact [board@saddle.run](mailto:board@saddle.run) for details.
