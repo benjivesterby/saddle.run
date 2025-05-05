@@ -6,10 +6,21 @@ heroSubHeading: 'HOA Documents, Membership, and More'
 heroBackground: ''
 ---
 
-## Treasurer Report
+## Treasurer's Report
 
 Treasurer's Reports will be provided to residents upon request.  Please send
 requests to [board@saddle.run](mailto:board@saddle.run).
+
+## Public Documents
+
+[These are the public HOA documents for the community.](https://drive.google.com/drive/folders/1L8oU683WB4U-9s2E0AB-hOZpOKnIwHVY?usp=sharing)
+
+## Homeowner Documents
+
+[These documents are for homeowners only and require authorization from the
+HOA.](https://drive.google.com/drive/folders/1nsabJSzavODCRA_802IJkp5WpAsN5o0Q?usp=sharing)
+
+## Annual Dues
 
 The Saddle Run HOA Annual Assessment is due by April 15, 2025.
 
@@ -25,15 +36,6 @@ The annual assessment allows for maintenance & repair of our community
 amenities, and funds the general operating costs of Saddle Run. Please email
 [board@saddle.run](mailto:board@saddle.run) if you need to discuss the
 possibility of a payment plan.
-
-## Public Documents
-
-[These are the public HOA documents for the community.](https://drive.google.com/drive/folders/1L8oU683WB4U-9s2E0AB-hOZpOKnIwHVY?usp=sharing)
-
-## Homeowner Documents
-
-[These documents are for homeowners only and require authorization from the
-HOA.](https://drive.google.com/drive/folders/1nsabJSzavODCRA_802IJkp5WpAsN5o0Q?usp=sharing)
 
 
 ### Architectural Review
