@@ -23,7 +23,7 @@ waiver.](https://docs.google.com/document/d/1Fy921RECHPZib1h2O8XsAsqz-y1xdTQu/ed
 **9:00 am - dusk** : Everyone
 
 ## Private Bookings
-Thursdays: 5:30 pm to dusk. - Private Gatherings may be booked on Thursdays beginning at 5:30pm for a fee.
+Thursdays: 5:30 pm to dusk. - Private Gatherings may be booked on Thursdays beginning at 5:30pm for $75.
 Please email [Saddle Run Board](mailto:board@saddle.run) for more information and
 costs.
 
