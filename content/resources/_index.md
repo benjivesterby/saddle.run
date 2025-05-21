@@ -30,8 +30,6 @@ If you have not sent your payment, please remit payment of $420.00 via check to:
 **PO Box 262**
 **Fuquay Varina, NC  27526**
 
-This bill is subject to a 1% per month late payment charge after May 15.
-
 The annual assessment allows for maintenance & repair of our community
 amenities, and funds the general operating costs of Saddle Run. Please email
 [board@saddle.run](mailto:board@saddle.run) if you need to discuss the
