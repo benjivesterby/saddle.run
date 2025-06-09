@@ -8,13 +8,7 @@ heroBackground: ''
 
 ## HOA Meetings
 
-The Saddle Run Homeowner's Association (HOA) Meetings will typically be held on
-the 1st Wednesday of each month, subject to change as needed.  Please check back
-often for the location and specific date of the meeting.  Homeowner's are
-encouraged to attend each meeting. "Homeowner Time" is available to allow any
-resident to bring up any issues, provide feedback on a topic or ask questions.
-
-HOA Meetings will be held at the Pool for the 2025 summer season.
+The Saddle Run Homeowner's Association (HOA) Meetings will be held at the pool on April 16, July 16 and October 15.  All meetings begin at 6:30 PM.  Residents who wish to be more involved are welcome to join our meetings or email us at board@saddle.run.  You are also invited to join our committees, including the Long Term Planning, Social, Pool, Stables, and Architecture/Grounds committees.
 
 ## Meeting Minutes
 

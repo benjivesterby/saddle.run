@@ -6,14 +6,11 @@ heroSubHeading: 'HOA Documents, Membership, and More'
 heroBackground: ''
 ---
 
-## Treasurer's Report
-
-Treasurer's Reports will be provided to residents upon request.  Please send
-requests to [board@saddle.run](mailto:board@saddle.run).
-
 ## Public Documents
 
 [These are the public HOA documents for the community.](https://drive.google.com/drive/folders/1L8oU683WB4U-9s2E0AB-hOZpOKnIwHVY?usp=sharing)
+
+[By-Laws and Covenants](https://drive.google.com/drive/folders/1-YglUNSkI0n05mtVdLhndc9rvakfJ8Ee?usp=drive_link)
 
 ## Homeowner Documents
 
@@ -24,7 +21,7 @@ HOA.](https://drive.google.com/drive/folders/1nsabJSzavODCRA_802IJkp5WpAsN5o0Q?u
 
 The Saddle Run HOA Annual Assessment is due by April 15, 2025.
 
-If you have not sent your payment, please remit payment of $420.00 via check to:
+If you have not sent your payment, please remit payment of $570.00 via check to:
 
 **Saddle Run HOA**
 **PO Box 262**
@@ -41,4 +38,4 @@ possibility of a payment plan.
 The Architecture Committee reviews any applications for modifications, additions or architectural changes in the community to ensure the aesthetic and structural integrity of Saddle Run. For any questions or to volunteer on the committee, please contact:
 [architecture@saddle.run](mailto:architecture@saddle.run)
 
-Please review the current By-Laws and Covenants for any specific requirements within Saddle Run as related to modifications, additions and changes. Once the application is submitted to [architecture@saddle.run](mailto:architecture@saddle.run), the Board of Directors will provide approval or request additional information within 30 days. The Architectural Request form can be found on the Resource Center page.
+Please review the current By-Laws and Covenants for any specific requirements within Saddle Run as related to modifications, additions and changes. Once the application is submitted to [architecture@saddle.run](mailto:architecture@saddle.run), the Board of Directors will provide approval or request additional information within 30 days.The Architectural Request form can be found on the [Public Documents page](https://drive.google.com/drive/folders/1L8oU683WB4U-9s2E0AB-hOZpOKnIwHVY?usp=sharing).

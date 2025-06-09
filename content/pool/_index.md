@@ -14,7 +14,7 @@ please contact [board@saddle.run](mailto:board@saddle.run) for details.
 As a reminder your pool fob will only work if you've paid your HOA dues and signed the Pool waiver.
 
 [Click here to download the
-waiver.](https://docs.google.com/document/d/1Fy921RECHPZib1h2O8XsAsqz-y1xdTQu/edit?usp=sharing&ouid=115726158870129633724&rtpof=true&sd=true)
+waiver.](https://drive.google.com/file/d/1K-EQnDwOmrLjzqWU35KGxwjlKH-Qu9Ne/view?usp=sharing)
 
 ## Pool Hours
  
